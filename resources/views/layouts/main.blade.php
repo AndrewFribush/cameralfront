@@ -50,9 +50,6 @@
     <script src="assets/js/jquery.isotope.min.js"></script>
     <script src="assets/js/custom.js"></script>
 
-
-<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/b768f4055ce969e0b38d6144d/6e8be621e508b71da7b372d9f.js");</script>
-
     <script>
 // Portfolio
 (function($) {

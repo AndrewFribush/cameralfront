@@ -46,7 +46,8 @@
 					  </div>
 					  <button type="submit" class="btn btn-theme">Submit</button>
 					</form>
-			</div><! --/col-lg-8 -->
+			</div>
+			<! --/col-lg-8 -->
 	 		
 	 		<div class="col-lg-4">
 		 		<h4>Our Address</h4>

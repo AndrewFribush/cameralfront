@@ -23,8 +23,9 @@
                 <li><a href="{{ route('hiramrevels') }}">The Hiram Revels Award</a></li>
               </ul>
             </li>
-            <li><a href="{{ route('contact') }}">CONTACT</a></li>
-<!--             <li><a href="{{ route('signup') }}">SIGN UP</a></li>
+            <li><a href="{{ route('intake') }}">SIGN UP</a></li>
+<!--             <li><a href="{{ route('contact') }}">CONTACT</a></li>
+ --><!--             <li><a href="{{ route('signup') }}">SIGN UP</a></li>
             <li><a href="{{ route('login') }}">USER SIGN IN</a></li>
  -->
           </ul>

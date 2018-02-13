@@ -46,3 +46,7 @@ Route::get('/signup', function () {
 Route::get('/login', function () {
     return view('login');
 })->name('login');
+
+Route::get('/intake', function () {
+    return view('intake');
+})->name('intake');

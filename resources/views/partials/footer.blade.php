@@ -11,14 +11,11 @@
                     <p>We are Cameral, your Campaign in a Box. We empower you to run for the offices that matter to the most!</p>
                 </div>
                 <div class="col-lg-4">
-                    <h4>Social Links</h4>
+                    <h4>Links</h4>
                     <div class="hline-w"></div>
                     <p>
-                        <a href="#"><i class="fa fa-dribbble"></i></a>
-                        <a href="#"><i class="fa fa-facebook"></i></a>
-                        <a href="#"><i class="fa fa-twitter"></i></a>
-                        <a href="#"><i class="fa fa-instagram"></i></a>
-                        <a href="#"><i class="fa fa-tumblr"></i></a>
+                        <a href="https://www.facebook.com/cameralinc/"><i class="fa fa-facebook"></i></a>
+                        <a href="https://twitter.com/cameralinc"><i class="fa fa-twitter"></i></a>
                     </p>
                 </div>
                 <div class="col-lg-4">
@@ -29,6 +26,7 @@
                         Arlington, VA<br/>
                         United States, 22202<br/>
                     </p>
+                        <a href="mailto:contact@cameral.com">contact@cameral.com</i></a>
                 </div>
             
             </div><! --/row -->
