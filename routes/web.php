@@ -35,9 +35,9 @@ Route::get('/faq', function () {
     return view('faq');
 })->name('faq');
 
-Route::get('/hiramrevels', function () {
-    return view('hiramrevels');
-})->name('hiramrevels');
+// Route::get('/hiramrevels', function () {
+//     return view('hiramrevels');
+// })->name('hiramrevels');
 
 Route::get('/signup', function () {
     return view('signup');
@@ -50,3 +50,7 @@ Route::get('/login', function () {
 Route::get('/intake', function () {
     return view('intake');
 })->name('intake');
+
+Route::get('/contact', function () {
+    return view('contact');
+})->name('contact');

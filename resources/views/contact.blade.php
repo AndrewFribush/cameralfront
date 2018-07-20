@@ -30,7 +30,7 @@
 		 			<form role="form">
 					  <div class="form-group">
 					    <label for="InputName1">Your Name</label>
-					    <input type="email" class="form-control" id="exampleInputEmail1">
+					    <input type="text" class="form-control" id="exampleInputEmail1">
 					  </div>
 					  <div class="form-group">
 					    <label for="InputEmail1">Email address</label>
@@ -38,7 +38,7 @@
 					  </div>
 					  <div class="form-group">
 					    <label for="InputSubject1">Subject</label>
-					    <input type="email" class="form-control" id="exampleInputEmail1">
+					    <input type="text" class="form-control" id="exampleInputEmail1">
 					  </div>
 					  <div class="form-group">
 					  	<label for="message1">Message</label>

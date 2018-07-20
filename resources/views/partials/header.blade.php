@@ -14,15 +14,17 @@
           <ul class="nav navbar-nav">
             <li><a href="{{ route('index') }}">HOME</a></li>
             <li><a href="{{ route('about') }}">ABOUT</a></li>
-            <li class="dropdown">
+<!--             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">PAGES <b class="caret"></b></a>
               <ul class="dropdown-menu">
-<!--                 <li><a href="{{ route('who') }}">Who We Are</a></li>
+                <li><a href="{{ route('who') }}">Who We Are</a></li>
                 <li><a href="{{ route('why') }}">Why We Matter</a></li>
- -->                <li><a href="{{ route('faq') }}">FAQ</a></li>
-                <li><a href="{{ route('hiramrevels') }}">The Hiram Revels Award</a></li>
               </ul>
             </li>
+ -->
+            <li><a href="{{ route('faq') }}">FAQ</a></li>
+            <li><a href="{{ route('contact') }}">CONTACT</a></li>
+
             <li><a href="{{ route('intake') }}">SIGN UP</a></li>
 <!--             <li><a href="{{ route('contact') }}">CONTACT</a></li>
  --><!--             <li><a href="{{ route('signup') }}">SIGN UP</a></li>

@@ -54,7 +54,6 @@
                 <li><a href="{{ route('who') }}">Who We Are</a></li>
                 <li><a href="{{ route('why') }}">Why We Matter</a></li>
                 <li><a href="{{ route('faq') }}">FAQ</a></li>
-                <li><a href="{{ route('hiramrevels') }}">The Hiram Revels Award</a></li>
               </ul>
             </li>
             <li><a href="{{ route('contact') }}">CONTACT</a></li>
